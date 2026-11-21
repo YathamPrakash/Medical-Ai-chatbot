@@ -1,0 +1,17 @@
+#environment variables
+python-dotenv
+
+#pdf handling
+pypdf
+
+#vector store
+pinecone
+
+#langchain
+langchain-pinecone
+langchain-google-genai
+langchain-text-splitters
+
+langchain-huggingface
+sentence-transformers
+
